@@ -1,0 +1,26 @@
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\bin\Debug\SebekeProblemleri.exe.config
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\bin\Debug\SebekeProblemleri.exe
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\bin\Debug\SebekeProblemleri.pdb
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.csprojAssemblyReference.cache
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.Form1.resources
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.Properties.Resources.resources
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.csproj.GenerateResource.cache
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.csproj.CoreCompileInputs.cache
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.exe
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.pdb
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.minimumKapsayanAgac.resources
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.enKisaYol.resources
+C:\Users\OGO\source\repos\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.CPM.resources
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\bin\Debug\SebekeProblemleri.exe.config
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\bin\Debug\SebekeProblemleri.exe
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\bin\Debug\SebekeProblemleri.pdb
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.csprojAssemblyReference.cache
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.CPM.resources
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.enKisaYol.resources
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.Form1.resources
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.minimumKapsayanAgac.resources
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.Properties.Resources.resources
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.csproj.GenerateResource.cache
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.csproj.CoreCompileInputs.cache
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.exe
+C:\Users\talha\Downloads\Bitirme Çalışması\Bitirme Çalışması\SebekeProblemleri\SebekeProblemleri\obj\Debug\SebekeProblemleri.pdb
